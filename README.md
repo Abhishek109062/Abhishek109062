@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Android Development.
 - :cyclone: I'm currently learning DSA.
 - :speech_balloon: Ask me about Game Devlopment or any tech related stuff.
-- :zap: Fun fact: I spend almost 12 hours listening music everyday.
+- :zap: Fun fact: I spend almost 16 hours listening music everyday.
 
 
 
