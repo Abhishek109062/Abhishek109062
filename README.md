@@ -1,6 +1,6 @@
 ### Hola, I'm Abhishek Kumar👋 
 - 🌱 I’m currently learning Android Development.
-- :cyclone: I'm currently learning DSA.
+- :cyclone:  I'm currently learning DSA.
 - :speech_balloon: Ask me about Game Devlopment or any tech related stuff.
 - :zap: Fun fact: I spend almost 16 hours listening music everyday.
 
