@@ -1,5 +1,4 @@
-- ### Hola, I'm Abhishek Kumar👋
-- :snowflake: 
+- ### Hola, I'm Abhishek Kumar👋 
 - 🌱 I’m currently learning Android Development ,Data Structures and CP
 
 <!---
