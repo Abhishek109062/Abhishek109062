@@ -1,4 +1,4 @@
-### Hola, I'm Abhishek Kumar👋 
+### Hi, I'm Abhishek Kumar👋 
 - 🌱 I’m currently learning Android Development.
 - :cyclone:  I'm currently learning DSA.
 - :speech_balloon: Ask me about Game Devlopment or any tech related stuff.
