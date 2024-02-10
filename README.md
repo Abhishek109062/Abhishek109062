@@ -1,5 +1,5 @@
 ### Hi, I'm Abhishek Kumar👋 
-- 🌱 I’m currently learning App(FLutter) Development.
+- 🌱 I’m currently learning App(Flutter) Development.
 - :cyclone:  I'm currently improving my problem solving skills.
 - :speech_balloon: Ask me about Game Devlopment or any tech related stuff.
 - :zap: Fun fact: I spend almost 6 hours listening music everyday.
